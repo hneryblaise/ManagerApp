@@ -1,0 +1,11 @@
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\bin\Debug\Manager.exe.config
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\bin\Debug\Manager.exe
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\bin\Debug\Manager.pdb
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.Login.resources
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.ManagerMain.resources
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.exe
+c:\users\ccsnl\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\CCSNL\documents\visual studio 2013\Projects\Manager\Manager\obj\Debug\Manager.Systems.resources
